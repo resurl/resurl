@@ -1,6 +1,6 @@
 hey there, i'm leanna 👋 i use she/her pronouns!
 
-current 📚 [**ubc**](https://www.ubc.ca/) cs student, 🚀 ubc [**launchpad**](https://ubclaunchpad.com/) dev, and incoming 🌩 [**microsoft**](https://github.com/microsoft) explorer for summer 2021! right now, i'm working on a 📅 [**course scheduler**](https://github.com/ubclaunchpad/life-at-ubc) for ubc students.
+current 📚 [**ubc**](https://www.ubc.ca/) cs student, 🚀 ubc [**launchpad**](https://ubclaunchpad.com/) dev, and 💻 [**microsoft**](https://github.com/microsoft) swe + pm intern under the Azure organization! 
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=resurreccionl)](https://github.com/anuraghazra/github-readme-stats)
  - 🔭 I’m currently working on: Cassettes
