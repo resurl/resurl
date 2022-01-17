@@ -1,6 +1,6 @@
 hey there, i'm leanna 👋 i use she/her pronouns!
 
-current 📚 [**ubc**](https://www.ubc.ca/) cs student and 🚀 ubc [**launchpad**](https://ubclaunchpad.com/) dev!
+current 📚 [**ubc**](https://www.ubc.ca/) cs student, 🚀 ubc [**launchpad**](https://ubclaunchpad.com/) dev, and undergrad research assistant with the bccdc!
 
 <!--i'm interested in offensive security and programming language development, and in the upcoming school year (sept-may) i plan to be working with Phare on a mental health app for connecting students with mental health professionals and with not-for-profit org [**UBHub**](https://www.ubhub.org/) to overhaul their map feature.-->
 
