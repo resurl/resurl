@@ -1,4 +1,4 @@
-hey there, i'm leanna 👋 i use she/her pronouns!
+hey there, i'm leanna 👋 i use they/them or she/her pronouns!
 
 current 📚 [**ubc**](https://www.ubc.ca/) cs student, 🚀 ubc [**launchpad**](https://ubclaunchpad.com/) dev, and undergrad research assistant with the bccdc!
 
